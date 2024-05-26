@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main(){
+void pedirNome(){
     
     print("Digite seu nome! ");
     String? nome = stdin.readLineSync();

@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "boa_tarde.dart",
+            "program": "comeco.dart",
         }
     ]
 }

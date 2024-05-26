@@ -1,3 +1,3 @@
-void main(){
+void boaTarde(){
     print("Boa tarde pessoal");
 }
