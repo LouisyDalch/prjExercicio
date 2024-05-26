@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "comeco.dart",
+            "program": "saudacao_calorosa.dart",
         }
     ]
 }
