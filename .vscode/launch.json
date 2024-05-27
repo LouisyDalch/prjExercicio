@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "saudacao_calorosa.dart",
+            "program": "media.dart",
         }
     ]
 }
