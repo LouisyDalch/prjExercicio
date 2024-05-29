@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "dart",
             "console": "terminal",
-            "program": "media.dart",
+            "program": "tv_internet.dart",
         }
     ]
 }
